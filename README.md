@@ -3,6 +3,8 @@ Record daily questions and solutions or ideas in leetcode
 
 #### 2024 May
 
+
+[2024/05/02](/20240502.md) <br>
 [2024/05/01](/20240501.md) <br>
 
 #### 2024 April
