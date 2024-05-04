@@ -1,5 +1,7 @@
 # LeetCode_Daily2024
 Record daily questions and solutions or ideas in leetcode
+Normally Using C++/Python
+
 
 #### 2024 May
 
