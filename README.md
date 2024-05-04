@@ -1,5 +1,5 @@
 # LeetCode_Daily2024
-Record daily questions and solutions or ideas in leetcode
+Record daily questions and solutions or ideas in leetcode <br>
 Normally Using C++/Python
 
 
