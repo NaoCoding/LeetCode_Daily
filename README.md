@@ -2,6 +2,9 @@
 Record daily questions and solutions or ideas in leetcode <br>
 Normally Using C++/Python
 
+#### 2024 June
+
+[2024/06/05](/20240605.md) <br>
 
 #### 2024 May
 
